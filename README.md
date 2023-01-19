@@ -1,18 +1,19 @@
 <div align="center">
-<h1>Olá, me chamo Paulo Kasprik!</h1>
+<p><strong>Olá, me chamo Paulo Kasprik!</strong></p>
 <p>Iniciante em programação, focado em Front-End.</p>
 </div>
 
 
 <div align="center">
-<h2>Estou aprendendo:</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<p><strong>Estou aprendendo:<p></strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </div>         
           
       
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaspr1k&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Kasprik github stats"/>
-   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaspr1k&layout=compact&hide_border=true&title_color=7FFFD4&text_color=FFFFFF&bg_color=0d1117"/>
+<a href="https://github.com/kaspr1k">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaspr1k&layout=compact&langs_count=7&theme=dracula"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaspr1k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
